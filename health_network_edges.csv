@@ -1,0 +1,16 @@
+source,target
+Ada Health,Buoy Health
+Ada Health,WebMD
+Ada Health,Mayo Clinic
+Ada Health,NHS 111
+Buoy Health,WebMD
+Buoy Health,Mayo Clinic
+Buoy Health,ChatGPT
+WebMD,Mayo Clinic
+WebMD,MedlinePlus
+Mayo Clinic,MedlinePlus
+Mayo Clinic,NHS 111
+ChatGPT,Ada Health
+ChatGPT,Buoy Health
+ChatGPT,MedlinePlus
+NHS 111,MedlinePlus
